@@ -2,22 +2,24 @@
 
 Bu proje, bir Raspberry Pi üzerinde çalışacak şekilde tasarlanmıştır. Aşağıdaki adımları takip ederek projeyi kurabilir ve çalıştırabilirsiniz.
 
-## 1. Sanal Ortam Oluşturma
-
-İlk olarak, bir sanal ortam (virtual environment) oluşturmanız gerekmektedir. Terminalde aşağıdaki komutları sırasıyla çalıştırın:
-
-```bash
-python -m venv venv
-source venv/bin/activate
-``` 
-
-## 2. GitHub'dan Kodları İndirme
+## 1. GitHub'dan Kodları İndirme
 
 GitHub'daki kodları bilgisayarınıza çekmek için terminalde aşağıdaki komutu çalıştırın:
 
 ```bash
 git clone git@github.com:eryilmazfurkan/v0.3_test.git
 ```
+
+
+## 2. Sanal Ortam Oluşturma
+
+İlk olarak, bir sanal ortam (virtual environment) oluşturmanız gerekmektedir. Terminalde aşağıdaki komutları sırasıyla çalıştırın:
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
 
 ## 3. Config Dosyasını Güncelleme
 
