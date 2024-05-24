@@ -7,7 +7,8 @@ Bu proje, bir Raspberry Pi üzerinde çalışacak şekilde tasarlanmıştır. A�
 GitHub'daki kodları bilgisayarınıza çekmek için terminalde aşağıdaki komutu çalıştırın:
 
 ```bash
-git clone git@github.com:eryilmazfurkan/v0.3_test.git
+#git clone git@github.com:eryilmazfurkan/v0.3_test.git
+git clone https://github.com/eryilmazfurkan/v0.3_test.git
 ```
 
 
