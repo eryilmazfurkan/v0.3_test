@@ -2,7 +2,7 @@ import subprocess
 import importlib
 import sys
 
-pip_libraries = ["smbus2", "RPi.GPIO", "atcom"]
+pip_libraries = ["smbus2", "RPi.GPIO", "atcom", "Adafruit-Blinka", "adafruit-circuitpython-tla202x"]
 
 apt_packages = ["minicom"]
 
