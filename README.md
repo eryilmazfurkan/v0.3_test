@@ -37,12 +37,12 @@ Gerekli kütüphane ve paketleri yüklemek için terminalde aşağıdaki komutu 
 python install_lib.py
 ```
 
-## 5. TBM Testi
+## 5. TPM Testi
 
 TBM testini gerçekleştirmek için terminalde aşağıdaki adımları takip edin:
 
 ```bash
-cd /ws/tbm/eltt2
+cd /ws/tpm/eltt2
 sudo ./eltt2 -g
 ```
 
